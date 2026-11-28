@@ -4,5 +4,20 @@
   "latest_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/gws.bin",
   "prov_version": "1.4",
   "prov_build": 142,
-  "prov_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/esp32/prov.bin"
+  "prov_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/esp32/prov.bin",
+  "egs_version": "1.0",
+  "egs_build": 100,
+  "egs_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/egs.bin",
+  "cluster_version": "1.0",
+  "cluster_build": 100,
+  "cluster_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/cluster.bin",
+  "ibus_version": "1.0",
+  "ibus_build": 100,
+  "ibus_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/ibus.bin",
+  "nbt_version": "1.0",
+  "nbt_build": 100,
+  "nbt_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/nbt.bin",
+  "cic_version": "1.0",
+  "cic_build": 100,
+  "cic_url": "https://github.com/ccfj1john/esp32-c6-f-series-gws/releases/download/latest/cic.bin"
 }
